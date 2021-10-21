@@ -1,0 +1,27 @@
+@startuml
+skinparam ArrowColor Blue
+[*] --> Unit1 : Передача данных для теста
+Unit1 --[#red]> Report : 0 очков
+Unit1 --[#green]> Unit2 
+Unit1  : Тест 1
+
+ 
+Unit2 --[#green]> Unit3 
+Unit2 --[#red]> Report : 1 очко
+Unit2 : Тест 2
+
+
+Unit3 : Тест 3
+Unit3 --[#red]> Report : 2 очка
+Unit3 --[#green]> Report : 3 очка
+Report : Генерация отчета 
+Report : Подсчет очков 
+Report --> [*] : Вернуть отчет
+
+legend
+|= Стрелка |= Значение |
+| <#0000ff> | Переход |
+| <#00ff00> | Успешно |
+| <#ff0000> | Неудача |
+endlegend
+@enduml
