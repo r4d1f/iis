@@ -1,0 +1,12 @@
+D:\Personal_Projects\IIS\iis\task6\DefaultApp\DefaultApp\bin\Debug\netcoreapp3.1\DefaultApp.exe
+D:\Personal_Projects\IIS\iis\task6\DefaultApp\DefaultApp\bin\Debug\netcoreapp3.1\DefaultApp.deps.json
+D:\Personal_Projects\IIS\iis\task6\DefaultApp\DefaultApp\bin\Debug\netcoreapp3.1\DefaultApp.runtimeconfig.json
+D:\Personal_Projects\IIS\iis\task6\DefaultApp\DefaultApp\bin\Debug\netcoreapp3.1\DefaultApp.runtimeconfig.dev.json
+D:\Personal_Projects\IIS\iis\task6\DefaultApp\DefaultApp\bin\Debug\netcoreapp3.1\DefaultApp.dll
+D:\Personal_Projects\IIS\iis\task6\DefaultApp\DefaultApp\bin\Debug\netcoreapp3.1\DefaultApp.pdb
+D:\Personal_Projects\IIS\iis\task6\DefaultApp\DefaultApp\obj\Debug\netcoreapp3.1\DefaultApp.AssemblyInfoInputs.cache
+D:\Personal_Projects\IIS\iis\task6\DefaultApp\DefaultApp\obj\Debug\netcoreapp3.1\DefaultApp.AssemblyInfo.cs
+D:\Personal_Projects\IIS\iis\task6\DefaultApp\DefaultApp\obj\Debug\netcoreapp3.1\DefaultApp.csproj.CoreCompileInputs.cache
+D:\Personal_Projects\IIS\iis\task6\DefaultApp\DefaultApp\obj\Debug\netcoreapp3.1\DefaultApp.dll
+D:\Personal_Projects\IIS\iis\task6\DefaultApp\DefaultApp\obj\Debug\netcoreapp3.1\DefaultApp.pdb
+D:\Personal_Projects\IIS\iis\task6\DefaultApp\DefaultApp\obj\Debug\netcoreapp3.1\DefaultApp.genruntimeconfig.cache

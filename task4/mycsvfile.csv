@@ -1,0 +1,2 @@
+status,country,countryCode,region,regionName,city,zip,lat,lon,timezone,isp,org,as,query,host
+success,Russia,RU,MOW,Moscow,Moscow,127616,55.7483,37.6171,Europe/Moscow,Grand Prix Telecom block8,net for MIREA University,AS42484 Company Limited Gran Prix Telecom,77.73.31.40,Host: whoami.miccedu.local

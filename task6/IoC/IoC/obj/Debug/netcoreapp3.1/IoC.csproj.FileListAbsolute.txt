@@ -1,0 +1,13 @@
+D:\Personal_Projects\IIS\iis\task6\IoC\IoC\bin\Debug\netcoreapp3.1\IoC.exe
+D:\Personal_Projects\IIS\iis\task6\IoC\IoC\bin\Debug\netcoreapp3.1\IoC.deps.json
+D:\Personal_Projects\IIS\iis\task6\IoC\IoC\bin\Debug\netcoreapp3.1\IoC.runtimeconfig.json
+D:\Personal_Projects\IIS\iis\task6\IoC\IoC\bin\Debug\netcoreapp3.1\IoC.runtimeconfig.dev.json
+D:\Personal_Projects\IIS\iis\task6\IoC\IoC\bin\Debug\netcoreapp3.1\IoC.dll
+D:\Personal_Projects\IIS\iis\task6\IoC\IoC\bin\Debug\netcoreapp3.1\IoC.pdb
+D:\Personal_Projects\IIS\iis\task6\IoC\IoC\obj\Debug\netcoreapp3.1\IoC.csprojAssemblyReference.cache
+D:\Personal_Projects\IIS\iis\task6\IoC\IoC\obj\Debug\netcoreapp3.1\IoC.AssemblyInfoInputs.cache
+D:\Personal_Projects\IIS\iis\task6\IoC\IoC\obj\Debug\netcoreapp3.1\IoC.AssemblyInfo.cs
+D:\Personal_Projects\IIS\iis\task6\IoC\IoC\obj\Debug\netcoreapp3.1\IoC.csproj.CoreCompileInputs.cache
+D:\Personal_Projects\IIS\iis\task6\IoC\IoC\obj\Debug\netcoreapp3.1\IoC.dll
+D:\Personal_Projects\IIS\iis\task6\IoC\IoC\obj\Debug\netcoreapp3.1\IoC.pdb
+D:\Personal_Projects\IIS\iis\task6\IoC\IoC\obj\Debug\netcoreapp3.1\IoC.genruntimeconfig.cache
